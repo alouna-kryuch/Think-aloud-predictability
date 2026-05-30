@@ -1,2 +1,2 @@
 # Think-aloud-predictability
-Repository for thesis on topic of RESEARCH OF REASONING STRATEGIES  IN HUMAN CLOZE TASK PERFORMANCE 
+Repository for thesis on topic of "Research of reasoning strategies  in human cloze task performance" 
